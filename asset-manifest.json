@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/cu-advancelab-website/static/css/main.2351ecde.chunk.css",
+    "main.js": "/cu-advancelab-website/static/js/main.1ac352b9.chunk.js",
+    "main.js.map": "/cu-advancelab-website/static/js/main.1ac352b9.chunk.js.map",
+    "runtime-main.js": "/cu-advancelab-website/static/js/runtime-main.82e7b81f.js",
+    "runtime-main.js.map": "/cu-advancelab-website/static/js/runtime-main.82e7b81f.js.map",
+    "static/css/2.0a9ec390.chunk.css": "/cu-advancelab-website/static/css/2.0a9ec390.chunk.css",
+    "static/js/2.e75b152a.chunk.js": "/cu-advancelab-website/static/js/2.e75b152a.chunk.js",
+    "static/js/2.e75b152a.chunk.js.map": "/cu-advancelab-website/static/js/2.e75b152a.chunk.js.map",
+    "index.html": "/cu-advancelab-website/index.html",
+    "static/css/2.0a9ec390.chunk.css.map": "/cu-advancelab-website/static/css/2.0a9ec390.chunk.css.map",
+    "static/css/main.2351ecde.chunk.css.map": "/cu-advancelab-website/static/css/main.2351ecde.chunk.css.map",
+    "static/js/2.e75b152a.chunk.js.LICENSE.txt": "/cu-advancelab-website/static/js/2.e75b152a.chunk.js.LICENSE.txt",
+    "static/media/prediction.e3ab650b.pdf": "/cu-advancelab-website/static/media/prediction.e3ab650b.pdf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.82e7b81f.js",
+    "static/css/2.0a9ec390.chunk.css",
+    "static/js/2.e75b152a.chunk.js",
+    "static/css/main.2351ecde.chunk.css",
+    "static/js/main.1ac352b9.chunk.js"
+  ]
+}
